@@ -1,7 +1,6 @@
 
 
 
-aaa= "ŞASDasd ASD"
 
 
 
