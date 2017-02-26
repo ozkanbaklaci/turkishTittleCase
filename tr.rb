@@ -1,9 +1,4 @@
 
-
-
-
-
-
   def tittleCaseTR getStr
     def trTittlecase getStrTR
       getStrTR=getStrTR.split(" ")
